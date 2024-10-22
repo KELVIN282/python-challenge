@@ -11,4 +11,4 @@ PyPoll/analysis/election_analysis.txt
 Pypoll/main.py
 README.md
 
-NB: The main.py files contains the scripts to run the results of the analysis.
+NB: The main.py and main_2.py files contains the scripts to run the results of the analysis.
